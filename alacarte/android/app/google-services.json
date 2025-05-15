@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674587226235",
+    "project_id": "a-lacarte",
+    "storage_bucket": "a-lacarte.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674587226235:android:83ae871f11753eaf54b2de",
+        "android_client_info": {
+          "package_name": "com.alacarte.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsK59utpVJQdzOA-HUD1lD_UXNPr_YJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
